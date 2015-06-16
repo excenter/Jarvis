@@ -8,6 +8,19 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
+    public class User
+    {
+        private String _name;
+        public String get_name()
+        {
+            return _name;
+        }
+
+        public void set_name(String _name) {
+            this._name = _name;
+        }
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
