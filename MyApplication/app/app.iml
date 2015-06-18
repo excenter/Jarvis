@@ -108,7 +108,10 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/build/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/reports" />
+      <excludeFolder url="file://$MODULE_DIR$/build/test-results" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
@@ -116,11 +119,11 @@
     <orderEntry type="library" exported="" name="maven-ant-tasks-2.1.3" level="project" />
     <orderEntry type="library" exported="" name="ant-1.8.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="espresso-core-2.0" level="project" />
-    <orderEntry type="library" exported="" name="ant-launcher-1.8.0" level="project" />
     <orderEntry type="library" exported="" name="hamcrest-library-1.1" level="project" />
+    <orderEntry type="library" exported="" name="ant-launcher-1.8.0" level="project" />
     <orderEntry type="library" exported="" name="asm-commons-5.0.1" level="project" />
-    <orderEntry type="library" exported="" name="hamcrest-integration-1.1" level="project" />
     <orderEntry type="library" exported="" name="asm-5.0.1" level="project" />
+    <orderEntry type="library" exported="" name="hamcrest-integration-1.1" level="project" />
     <orderEntry type="library" exported="" name="asm-util-5.0.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jsr305-2.0.1" level="project" />
     <orderEntry type="library" exported="" name="objenesis-1.3" level="project" />
