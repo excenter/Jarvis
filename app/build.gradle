@@ -3,7 +3,7 @@ apply plugin: 'org.robolectric'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "22.0.1"
+    buildToolsVersion "23.0.0_rc2"
 
     defaultConfig {
         applicationId "com.snagajob.buildbot.jarvisjenkinstest"
